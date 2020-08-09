@@ -1,0 +1,18 @@
+# Created at 2020-08-09T19:28:39.022
+Java HotSpot(TM) 64-Bit Server VM warning: Ignoring option MaxPermSize; support was removed in 8.0
+
+# Created at 2020-08-09T19:28:42.590
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2020-08-09T19:28:42.591
+WARNING: Illegal reflective access by cucumber.deps.com.thoughtworks.xstream.core.util.Fields (file:/C:/Users/s.indradeolaldas.DIR/AppData/Local/Temp/surefire15573209328434099781/..%5C..%5C..%5C..%5C..%5Cs.indradeolaldas.DIR%5C.m2%5Crepository%5Cinfo%5Ccukes%5Ccucumber-jvm-deps%5C1.0.5%5Ccucumber-jvm-deps-1.0.5.jar) to field java.util.TreeMap.comparator
+
+# Created at 2020-08-09T19:28:42.593
+WARNING: Please consider reporting this to the maintainers of cucumber.deps.com.thoughtworks.xstream.core.util.Fields
+
+# Created at 2020-08-09T19:28:42.595
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2020-08-09T19:28:42.596
+WARNING: All illegal access operations will be denied in a future release
+
